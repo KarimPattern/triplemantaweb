@@ -13,7 +13,7 @@ function App() {
           speed={0.7}
           direction="forward"
           scale={1}
-          opacity={0.8}
+          opacity={1}
           mouseInteractive={false}
         />
 
