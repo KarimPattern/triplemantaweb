@@ -32,15 +32,15 @@ function App() {
                 </p>
                 <div className="hero-buttons">
                   <div className="row">
-                    <a className="hero-button btn-primary" style={{ flex: 3, }}>
+                    <a href="https://triplemanta.lemonsqueezy.com/" className="hero-button btn-primary" style={{ flex: 3, }}>
                       Explore Products
                     </a>
-                    <a className="hero-button btn-secondary" style={{ flex: 2, }}>
+                    <a href="https://www.roblox.com/communities/630543637/tripleManta" target="_blank" rel="noopener noreferrer" className="hero-button btn-secondary" style={{ flex: 2, }}>
                       Our Games
                     </a>
                   </div>
                   <div className="row">
-                    <a className="hero-button btn-secondary" style={{ flex: 0.8, }}>
+                    <a href="https://docs.triplemanta.com/" className="hero-button btn-secondary" style={{ flex: 0.8, }}>
                       Docs
                     </a>
                     <a href="https://discord.gg/wVugAM5k9E" target="_blank" rel="noopener noreferrer" className="hero-button btn-secondary" style={{ flex: 1.2, }}>
