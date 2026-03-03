@@ -44,7 +44,7 @@ export default function Home() {
                     Explore Products
                   </a>
                   <a
-                    href="https://www.roblox.com/communities/630543637/tripleManta"
+                    href="https://www.roblox.com/communities/630543637/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hero-button btn-secondary"
