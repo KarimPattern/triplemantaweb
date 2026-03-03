@@ -5,7 +5,7 @@ import './Home.css';
 
 const Plasma = React.lazy(() => import('../components/Plasma'));
 
-import tripleManta from '../images/tripleManta.png';
+import tripleManta from '../images/triplemanta.png';
 
 export default function Home() {
   console.log('Home component mounted');
