@@ -44,7 +44,7 @@ export default function Home() {
                     Explore Products
                   </a>
                   <a
-                    href="https://www.roblox.com/communities/630543637/"
+                    href="https://www.roblox.com/communities/630543637/tripleManta"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hero-button btn-secondary"
@@ -78,6 +78,7 @@ export default function Home() {
             </div>
           </section>
         </div>
+        
         <footer>
           <span>© 2026 tripleManta</span>
           <span className="footer-spacer">•</span>
