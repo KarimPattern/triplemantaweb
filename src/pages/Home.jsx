@@ -55,7 +55,7 @@ export default function Home() {
                 </div>
                 <div className="row">
                   <a
-                    href="https://docs.triplemanta.com/"
+                    href="https://docs.triplemanta.com/home/get-started/"
                     className="hero-button btn-secondary"
                     style={{ flex: 0.8 }}
                   >
