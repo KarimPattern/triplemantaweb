@@ -121,7 +121,7 @@
 }
 
 .btn-primary, .btn-primary:visited, .btn-primary:link, .btn-primary:hover, .btn-primary:active {
-  background: rgba(255, 255, 255, 0.8); /* semi-transparent */
+  background: rgba(255, 255, 255, 0.8);
   border: solid rgba(255, 255, 255, 0.2) 1px;
   opacity: 1;
 
@@ -131,15 +131,15 @@
 }
 
 .btn-primary:hover {
-  background: rgba(255, 255, 255, 1); /* semi-transparent */
+  background: rgba(255, 255, 255, 1);
   border: solid rgba(255, 255, 255, 1) 1px;
 
   color: rgba(0, 0, 0, 1);
 }
 
 .btn-secondary, .btn-secondary:visited, .btn-secondary:link, .btn-secondary:hover, .btn-secondary:active {
-  background: rgba(110, 110, 110, 0.1); /* semi-transparent */
-  border: solid rgba(110, 110, 110, 0.2) 1px;
+  background: rgba(20, 20, 20, 0.4);
+  border: solid rgba(110, 110, 110, 0.075) 1px;
   opacity: 1;
 
   color: rgba(255, 255, 255, 0.7);
@@ -148,8 +148,8 @@
 }
 
 .btn-secondary:hover {
-  background: rgba(110, 110, 110, 0.2);
-  border: solid rgba(110, 110, 110, 0.3) 1px;
+  background: rgba(50, 50, 50, 0.25);
+  border: solid rgba(110, 110, 110, 0.125) 1px;
   color: rgba(255, 255, 255, 0.8);
 }
 
@@ -164,7 +164,7 @@
 
 .home footer span {
   color: white;
-  opacity: 40%;
+  opacity: 30%;
 }
 
 
@@ -175,7 +175,7 @@
 
 .home footer a {
   color: white;
-  opacity: 40%;
+  opacity: 30%;
 
   font-weight: 400;
   text-decoration: none;
@@ -185,11 +185,11 @@
 
 .home footer a:link, .home footer a:visited, .home footer a:hover, .home footer a:active {
   color: white;
-  opacity: 40%;
+  opacity: 30%;
 }
 
 .home footer a:hover {
-  opacity: 60%;
+  opacity: 40%;
 }
 
 

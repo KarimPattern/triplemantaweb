@@ -14,7 +14,7 @@ export default function Home() {
     <div className="home">
       <Suspense fallback={null}>
         <Plasma
-          color="#000e3c"
+          color="#041650"
           speed={0.7}
           direction="forward"
           scale={1}
